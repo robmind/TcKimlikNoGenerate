@@ -5,7 +5,7 @@ generate() ->
 	Num = random:uniform(9),
 	Num2 = random:uniform(9),
 	Num3 = random:uniform(9),
-	Num4 = random:uniform(9), 
+	Num4 = random:uniform(9),
 	Num5 = random:uniform(9),
 	Num6 = random:uniform(9),
 	Num7 = random:uniform(9),
